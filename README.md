@@ -37,4 +37,4 @@ No.3 Upper Kirby
 *  In this project, I combined the venues data from input and Houston together before performing the comparison. The reason of doing this was to ensure all the data sharing the same columns. Then the dataframe was split into two parts, one part for Houston's neighborhoods and the other one for the input area which was only one row.  
 
 ## Conclusion  
-
+By analyzing the local venues information, this project can successfully find out the most similar neighborhoods in Houston as the queried one.  
