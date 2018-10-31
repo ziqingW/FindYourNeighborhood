@@ -20,7 +20,7 @@ Steps of the procedure include:
 1.  Load data from resources(as discussed in the Data section).  
 2.  Process data for the appropriate format.  
 3.  API request for venues data through Foursquare.  
-4.  Convert data of venues into an one-hot table representing the existence percentage of every different venue's category grouped in one same neighborhood.  
+4.  Convert data of venues into a one-hot table representing the existence percentage of every different venue's category grouped in one same neighborhood.  
 5.  Calculate the distance of venues' categories between the inputted area with every neighborhood in Houston to find out the most similar three.  
 6.  Visualize the results on map.  
 ## Results  
