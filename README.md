@@ -4,7 +4,7 @@ This project is designed to help people find the similar neighborhood in Houston
 
 So basically, this project would ask user to input a zip code(US only) as template. Then the project would analyze the data of the surrounding venues for the template zip code by Foursquare, and compare the similarity with the neighborhoods from the data of Houston. The result would show the top three neighborhoods with the highest similarities for user to choose. And these neighborhoods will be displayed on the map of Houston.  
 ## Data  
-**The data required to accomplish this project will include::**  
+**The data required to accomplish this project will include:**  
 1.  List of postal codes with their corresponding coordinates in the US. https://gist.github.com/erichurst/7882666  
     A pandas dataframe displaying postal code, latitude, longitude can be generated from the .csv file by these data.
 
