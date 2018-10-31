@@ -30,7 +30,7 @@ No.1 Greenway Plaza
 No.2 Rice/Museum District,West University/Southside Area  
 No.3 Upper Kirby  
 
-*  Also, if the user entered a zip code of Houston he/she would get the result that the most similar one was the area with the inputted zip code. This can be counted as a positive control of the project.
+*  Also, if the user entered a zip code of Houston he/she would get the result that the most similar one was the area with the inputted zip code. This can be considered as a positive control of the project.
 
 ## Discussion  
 *  The size of Houston's neighborhoods varies largely, which makes the data of venues from some areas less representing for the features of neighborhood.  
